@@ -1,7 +1,6 @@
-# ms
+# @akshitkrnagpal/ms
 
-![CI](https://github.com/vercel/ms/workflows/CI/badge.svg)
-![Edge Runtime Compatible](https://img.shields.io/badge/edge--runtime-%E2%9C%94%20compatible-black)
+> This is fork of [vercel/ms](https://github.com/vercel/ms) which no one seems to update anymore. 
 
 Use this package to easily convert various time formats to milliseconds.
 
