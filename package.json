@@ -1,14 +1,16 @@
 {
-  "name": "ms",
-  "version": "3.0.0-canary.1",
+  "name": "@akshitkrnagpal/ms",
+  "version": "3.0.0-fork.1",
   "description": "Tiny millisecond conversion utility",
-  "repository": "vercel/ms",
+  "repository": "akshikrnagpal/ms",
   "main": "./dist/index.cjs",
   "type": "module",
   "exports": {
-    "types": "./dist/index.d.ts",
-    "import": "./dist/index.mjs",
-    "require": "./dist/index.cjs"
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs"
+    }
   },
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
